@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Social Feeds Web Part - Developed by NJIT Capstone Students",
+    "id": "2a4f8514-a9e7-4575-9a77-93f41e526d67",
+    "version": "1.0.0.4"
+  },
+  "paths": {
+    "zippedPackage": "solution/social-feeds.sppkg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Employee List Web Part - Developed by NJIT Capstone Students",
+    "id": "2ed94524-4280-45a2-aea1-ac8a6e67a040",
+    "version": "1.0.0.2"
+  },
+  "paths": {
+    "zippedPackage": "solution/employee-list.sppkg"
+  }
+}

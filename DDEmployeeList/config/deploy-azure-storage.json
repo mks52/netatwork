@@ -1,0 +1,7 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/deploy-azure-storage.schema.json",
+  "workingDir": "./temp/deploy/",
+  "account": "nawcapstone",
+  "container": "employeelist-webpart",
+  "accessKey": "mzm+134zPng4Hh7S5miVVdPDOdtFcSxBlMhAn5PweqwIEYnYhhzM1kAs7gV9g3TbpdmQVjSXBiNb61zzck3Ipg=="
+}

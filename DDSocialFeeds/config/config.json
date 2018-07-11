@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/socialFeeds/SocialFeedsWebPart.js",
+      "manifest": "./src/webparts/socialFeeds/SocialFeedsWebPart.manifest.json",
+      "outputPath": "./dist/social-feeds-web-part.bundle.js"
+    }
+  ],
+  "externals": {
+    "twitter": {
+      "path": "https://platform.twitter.com/widgets.js",
+      "globalName": "twttr"
+    },
+    "jquery": "node_modules/jquery/dist/jquery.min.js",
+    "jqueryui": "node_modules/jqueryui/jquery-ui.min.js"
+  },
+  "localizedResources": {
+    "SocialFeedsWebPartStrings": "webparts/socialFeeds/loc/{locale}.js"
+  }
+}

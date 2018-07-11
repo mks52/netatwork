@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "News Web Part - Developed by NJIT Capstone Students",
+    "id": "ab025bce-2a6a-4f7f-bf0d-cfa75f0dcc40",
+    "version": "1.0.0.1"
+  },
+  "paths": {
+    "zippedPackage": "solution/news.sppkg"
+  }
+}

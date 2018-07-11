@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "MyApps Web Part - Developed by NJIT Capstone Students",
+    "id": "1be1fc9b-f936-42a3-8106-b03dc7ccd1d3",
+    "version": "1.0.0.2"
+  },
+  "paths": {
+    "zippedPackage": "solution/dd-my-apps.sppkg"
+  }
+}

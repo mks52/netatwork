@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/employeeList/EmployeeListWebPart.js",
+      "manifest": "./src/webparts/employeeList/EmployeeListWebPart.manifest.json",
+      "outputPath": "./dist/employee-list-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "EmployeeListWebPartStrings": "webparts/employeeList/loc/{locale}.js"
+  }
+}

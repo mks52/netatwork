@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/news/NewsWebPart.js",
+      "manifest": "./src/webparts/news/NewsWebPart.manifest.json",
+      "outputPath": "./dist/news-web-part.bundle.js"
+    }
+  ],
+  "externals": {
+    "jquery": {
+      "path": "node_modules/jquery/dist/jquery.min.js",
+      "globalName": "jQuery"
+    },
+     "bootstrap": {
+      "path": "node_modules/bootstrap/dist/js/bootstrap.min.js",
+      "globalName": "jQuery"
+    }
+  },
+  "localizedResources": {
+    "NewsWebPartStrings": "webparts/news/loc/{locale}.js"
+  }
+}

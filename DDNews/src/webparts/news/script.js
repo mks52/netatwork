@@ -1,0 +1,1 @@
+jQuery('.accordion', this.domElement).accordion(accordionOptions);

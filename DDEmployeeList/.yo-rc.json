@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.3.2",
+    "libraryName": "employee-list",
+    "libraryId": "2ed94524-4280-45a2-aea1-ac8a6e67a040",
+    "environment": "onprem"
+  }
+}

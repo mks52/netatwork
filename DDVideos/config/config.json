@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/videos/VideosWebPart.js",
+      "manifest": "./src/webparts/videos/VideosWebPart.manifest.json",
+      "outputPath": "./dist/videos-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "VideosWebPartStrings": "webparts/videos/loc/{locale}.js"
+  }
+}

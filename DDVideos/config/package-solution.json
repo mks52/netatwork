@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Video Web Part - Developed by NJIT Capstone Students",
+    "id": "e896f6fa-6e55-44cb-aaf0-d42e84b367c9",
+    "version": "1.0.0.2"
+  },
+  "paths": {
+    "zippedPackage": "solution/videos.sppkg"
+  }
+}
