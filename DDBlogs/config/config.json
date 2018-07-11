@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/blogs/BlogsWebPart.js",
+      "manifest": "./src/webparts/blogs/BlogsWebPart.manifest.json",
+      "outputPath": "./dist/blogs-web-part.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "BlogsWebPartStrings": "webparts/blogs/loc/{locale}.js"
+  }
+}

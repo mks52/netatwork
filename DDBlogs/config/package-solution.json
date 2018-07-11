@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Blog Web Part - Developed by NJIT Capstone Students",
+    "id": "587f54d3-16ce-4a11-a927-a66aa002d0b5",
+    "version": "1.0.0.5"
+  },
+  "paths": {
+    "zippedPackage": "solution/blogs.sppkg"
+  }
+}
